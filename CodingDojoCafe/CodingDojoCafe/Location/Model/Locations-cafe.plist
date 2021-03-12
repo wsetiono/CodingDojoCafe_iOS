@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>city</key>
+		<string>Kelapa Gading</string>
+		<key>state</key>
+		<string>Jakarta Utara</string>
+	</dict>
+	<dict>
+		<key>city</key>
+		<string>Tebet</string>
+		<key>state</key>
+		<string>Jakarta Utara</string>
+	</dict>
+	<dict>
+		<key>city</key>
+		<string>Thamrin</string>
+		<key>state</key>
+		<string>Jakarta Pusat</string>
+	</dict>
+	<dict>
+		<key>city</key>
+		<string>Senopati</string>
+		<key>state</key>
+		<string>Jakarta Selatan</string>
+	</dict>
+	<dict>
+		<key>city</key>
+		<string>Pluit</string>
+		<key>state</key>
+		<string>Jakarta Utara</string>
+	</dict>
+	<dict>
+		<key>city</key>
+		<string>Puri Indah</string>
+		<key>state</key>
+		<string>Jakarta Pusat</string>
+	</dict>
+	<dict>
+		<key>city</key>
+		<string>Senayan</string>
+		<key>state</key>
+		<string>Jakarta Selatan</string>
+	</dict>
+	<dict>
+		<key>city</key>
+		<string>Kemang</string>
+		<key>state</key>
+		<string>Jakarta Selatan</string>
+	</dict>
+	<dict>
+		<key>city</key>
+		<string>Pantai Indah Kapuk</string>
+		<key>state</key>
+		<string>Jakarta Utara</string>
+	</dict>
+	<dict>
+		<key>city</key>
+		<string>Menteng</string>
+		<key>state</key>
+		<string>Jakarta Selatan</string>
+	</dict>
+	<dict>
+		<key>city</key>
+		<string>Gandaria</string>
+		<key>state</key>
+		<string>Jakarta Selatan</string>
+	</dict>
+	<dict>
+		<key>city</key>
+		<string>SCBD</string>
+		<key>state</key>
+		<string>Jakarta Selatan</string>
+	</dict>
+	<dict>
+		<key>city</key>
+		<string>Kuningan</string>
+		<key>state</key>
+		<string>Jakarta Selatan</string>
+	</dict>
+	<dict>
+		<key>city</key>
+		<string>Pondok Indah</string>
+		<key>state</key>
+		<string>Jakarta Selatan</string>
+	</dict>
+	<dict>
+		<key>city</key>
+		<string>Sudirman</string>
+		<key>state</key>
+		<string>Jakarta Pusat</string>
+	</dict>
+</array>
+</plist>

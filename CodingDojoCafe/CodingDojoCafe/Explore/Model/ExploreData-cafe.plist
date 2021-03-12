@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>name</key>
+		<string>All</string>
+		<key>image</key>
+		<string>all.png</string>
+	</dict>
+	<dict>
+		<key>name</key>
+		<string>Cafe Bakery</string>
+		<key>image</key>
+		<string>affogato.png</string>
+	</dict>
+	<dict>
+		<key>name</key>
+		<string>Co-Working Cafe</string>
+		<key>image</key>
+		<string>caffeamericano.png</string>
+	</dict>
+	<dict>
+		<key>name</key>
+		<string>Parisian Cafe</string>
+		<key>image</key>
+		<string>caffelatte.png</string>
+	</dict>
+	<dict>
+		<key>name</key>
+		<string>Sidewalk Cafe</string>
+		<key>image</key>
+		<string>cappucino.png</string>
+	</dict>
+	<dict>
+		<key>name</key>
+		<string>Grab-and-go Cafe</string>
+		<key>image</key>
+		<string>dalgona.png</string>
+	</dict>
+	<dict>
+		<key>name</key>
+		<string>The Hipster Hangout Cafe</string>
+		<key>image</key>
+		<string>espresso.png</string>
+	</dict>
+	<dict>
+		<key>name</key>
+		<string>The Old House Cafe</string>
+		<key>image</key>
+		<string>filtercoffee.png</string>
+	</dict>
+	<dict>
+		<key>name</key>
+		<string>Cozy Cuddling Cafe</string>
+		<key>image</key>
+		<string>flatwhite.png</string>
+	</dict>
+	<dict>
+		<key>name</key>
+		<string>Pet Cafe</string>
+		<key>image</key>
+		<string>instant.png</string>
+	</dict>
+	<dict>
+		<key>name</key>
+		<string>Bar Cafe</string>
+		<key>image</key>
+		<string>irishcoffee.png</string>
+	</dict>
+</array>
+</plist>
